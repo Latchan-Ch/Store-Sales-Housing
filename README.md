@@ -1,4 +1,4 @@
-This repository contains two intermediate-level Machine Learning projects completed as part of my AI/ML Internship at ShadowFox.
+This repository contains two intermediate-level Machine Learning projects.
 Each project applies real-world datasets to build and analyze predictive models using Python, Pandas, Matplotlib, Seaborn, and Scikit-learn in Google Colab.
 
  Projects:
