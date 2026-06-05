@@ -34,7 +34,7 @@ Derived business insights (e.g., loss-making sub-categories)
  Objective:
 To build a regression model that predicts median housing prices (MEDV) in Boston based on factors such as crime rate, number of rooms, property tax, etc.
 
-🛠 Tools & Libraries:
+ Tools & Libraries:
 Python
 
 pandas, seaborn, matplotlib
