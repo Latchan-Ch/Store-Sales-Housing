@@ -60,5 +60,5 @@ R² Score
 
 Visualized predictions with an Actual vs Predicted scatter plot
 
-📉 Output:
+Output:
 The model provided decent accuracy in predicting house prices
